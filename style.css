@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+section {
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+.top-banner {
+    margin-top: 5%;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+h1 {
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    color: #363958;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.highlight {
+    color: #FF8367;
+}
+
+p {
+    color: #3E3E3E;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 10%;
+}
+
+.link-button {
+    margin-top: 100px;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+h2 {
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    color: #363958;
+}
+
+.project-area {
+    margin-left: 1%;
+    background-color: rgba(248, 244, 244, 0.87);
+}
+
+.project-area h2 {
+    text-align: center;
+}
+
+.project-area .highlight {
+    color: #F46060;
+}
+
+.one-third-width {
+    width: 30%;
+    float: left;
+    margin-left: 1%;
+    padding-left: 1%;
+}
+
+.single-experience {
+    background: #FFFFFF;
+    box-shadow: 0px 6.5812px 19.7436px rgba(0, 0, 0, 0.07);
+    border-radius: 19.7436px;
+}
+
+.one-third-width img {
+    margin-top: 3%;
+    width: 97%;
+}
+
+.single-experience p {
+    color: #6C6C6C;
+}
